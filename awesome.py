@@ -1,1 +1,1 @@
-print('Xin Chao, Vietnam!')
+print('Halo, Apa kabar?')
